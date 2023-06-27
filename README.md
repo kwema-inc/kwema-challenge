@@ -1,5 +1,3 @@
-# Challenge 1
-
 ## Bacterial Population Estimation
 
 An experimental scientific study has created a new species of bacteria in the laboratory. These bacteria have a particular life cycle. Each adult bacterium takes 3 days to divide and give rise to two new bacteria, and a newborn bacterium reaches adulthood in 1 day.
