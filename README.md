@@ -1,7 +1,3 @@
-# kwema-challenge
-Kwema Challenge
-
-
 # Challenge 1
 
 ## Bacterial Population Estimation
